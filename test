@@ -1,0 +1,13 @@
+#write code,
+tt {
+    padding: 2px 4px;
+    border-radius: 2px;
+    font-family: 'Source Code Pro', Roboto Mono, Source Sans Pro, 'Microsoft YaHei', '微软雅黑';
+    /*font-size: 0.92rem;*/
+    font-size: 17px;
+    font-weight: bold;
+    color: #800501;
+    background-color: #f3d1d1;
+    /* color: #c7254e;
+    background-color: #f9f2f4;  */
+}
